@@ -25,6 +25,7 @@ If you do not have an account on Roar, request one by going to [https://accounts
 - GitHub intro to git: [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 - "Ten Simple Rules for Taking Advantage of Git and GitHub": [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945047/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945047/)
 - Reddit post: What do you put in your github? Read the comments, lots of good nuggests in there: [https://www.reddit.com/r/bioinformatics/comments/862v5y/what_do_you_put_in_your_github/](https://www.reddit.com/r/bioinformatics/comments/862v5y/what_do_you_put_in_your_github/)
+- Example project repository: [https://github.com/erdavenport/japaneseEel](https://github.com/erdavenport/japaneseEel)
 
 
 ### Objectives
